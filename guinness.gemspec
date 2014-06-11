@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["rbmrclo@hotmail.com"]
   spec.summary       = %q{Guinness is a nano framework for building simple static websites. }
   spec.description   = %q{Guinness is A nano framework for building simple static websites. }
-  spec.homepage      = "https://github.com"
+  spec.homepage      = "https://github.com/rbmrclo/guinness"
   spec.license       = "MIT"
 
   spec.files         = Dir['{bin,lib,test}/**/*']
